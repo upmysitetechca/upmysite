@@ -1,2 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://upmysitetechca.github.io/upmysite/</loc><lastmod>2026-11-20</lastmod></url><url><loc>https://upmysitetechca.github.io/upmysite/blog.html</loc><lastmod>2026-11-20</lastmod></url><url><loc>https://upmysitetechca.github.io/upmysite/guides.html</loc><lastmod>2026-11-20</lastmod></url><url><loc>https://upmysitetechca.github.io/upmysite/website-basics.html</loc><lastmod>2026-11-20</lastmod></url><url><loc>https://upmysitetechca.github.io/upmysite/oakville-website-maintenance.html</loc><lastmod>2026-11-20</lastmod></url></urlset>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://upmysitetechca.github.io/upmysite/</loc>
+  </url>
+
+  <url>
+    <loc>https://upmysitetechca.github.io/upmysite/blog.html</loc>
+  </url>
+
+  <url>
+    <loc>https://upmysitetechca.github.io/upmysite/guides.html</loc>
+  </url>
+
+  <url>
+    <loc>https://upmysitetechca.github.io/upmysite/oakville-website-maintenance.html</loc>
+  </url>
+
+</urlset>
