@@ -1,20 +1,29 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://upmysitetechca.github.io/upmysite/</loc>
-  </url>
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/</loc>
+    </url>
 
-  <url>
-    <loc>https://upmysitetechca.github.io/upmysite/blog.html</loc>
-  </url>
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/blog.html</loc>
+    </url>
 
-  <url>
-    <loc>https://upmysitetechca.github.io/upmysite/guides.html</loc>
-  </url>
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/guides.html</loc>
+    </url>
 
-  <url>
-    <loc>https://upmysitetechca.github.io/upmysite/oakville-website-maintenance.html</loc>
-  </url>
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/website-basics.html</loc>
+    </url>
+
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/oakville-website-maintenance.html</loc>
+    </url>
+
+    <url>
+        <loc>https://upmysitetechca.github.io/upmysite/hamilton-marketing-agency.html</loc>
+    </url>
 
 </urlset>
